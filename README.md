@@ -2,8 +2,8 @@
 
 ## I'm a Developer and Devops!
 - 🔭 I’m currently working as Devops!
-- 🌱 I’m currently learning Flutter, AWS and CIs 🤣
-- 🥅 2020 Goals: Contribute more to offer web-service and mobile app usefull 
+- 🌱 I’m currently learning Kivy/KiviMD, Clouds and CICD's 🤣
+- 🥅 2022 Goals: Contribute more to offer web-service and mobile app usefull 
 
 ### Connect with me:
 

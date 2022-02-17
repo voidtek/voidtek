@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning Kivy/KiviMD, Clouds and CICD's 🤣
 - 🥅 2022 Goals: Contribute more to offer web-service and mobile app usefull 
 
+## Following
+https://y.at/🌕🔮❤️⚡
+
 ### Connect with me:
 
 [<img align="left" alt="voidtek.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

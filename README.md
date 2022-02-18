@@ -5,10 +5,6 @@
 - 🌱 I’m currently learning Kivy/KiviMD, Clouds and CICD's 🤣
 - 🥅 2022 Goals: Contribute more to offer web-service and mobile app usefull 
 
-## Following
-https://y.at/👽🔥⚡🤓
-https://y.at/🤓😎❤️👽
-
 ## Tools
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=voidtek&show_icons=true&hide_border=true" />
 
